@@ -23,6 +23,4 @@ Latest update: Reception Telugu heading is “రిసెప్షన్”; re
 
 Bride-side invitation edition: title changed to “Pulla's wedding invitation”; couple order is Surekha first, then Surendra; bride profile appears before groom; closing inviter line is Sri. Pulla Rammohan and Smt. Srivani (Late). All other invitation details retained.
 
-Latest update: Removed the Pellikoduku event card. Music changed to the official YouTube video for “Thana Pranale Neevani” from the Pelli Pusthakam short film; playback is triggered by the Tap to Open button. Browser autoplay policies and YouTube availability may affect playback.
-
-Latest update: Replaced the bride and groom portraits with the latest uploaded photos.
+Latest update: Removed the Pellikoduku event card. Music changed to the official Sony Music Malayalam video for “En Kanavil” from 4 Years; playback is triggered by the Tap to Open button and starts at approximately 1:45 to begin near the refrain. Browser autoplay policies and YouTube availability may affect playback.
